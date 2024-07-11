@@ -5,3 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 gudusqlflow/sqlflow-simple-trial:6.1.0.0
+gudusqlflow/sqlflow-simple-trial:5.7.3
